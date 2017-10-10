@@ -1,0 +1,12 @@
+﻿@using System.Configuration
+@{
+    ViewBag.Title = "Test App2 Home";
+}
+
+<h2>Test App 2 Home</h2>
+
+<h3>User details : </h3>
+Logged in as <b> @User.Identity.Name </b>
+
+<br/>
+<a href="@ConfigurationManager.AppSettings["SignOutUrl"]"> Sign Out</a>
