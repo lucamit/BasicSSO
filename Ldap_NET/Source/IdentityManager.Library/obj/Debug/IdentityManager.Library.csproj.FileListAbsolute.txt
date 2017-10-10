@@ -1,0 +1,15 @@
+C:\TechTrial\IdentityManager.Library\bin\Debug\IdentityManager.Library.dll
+C:\TechTrial\IdentityManager.Library\bin\Debug\IdentityManager.Library.pdb
+C:\TechTrial\IdentityManager.Library\obj\Debug\IdentityManager.Library.dll
+C:\TechTrial\IdentityManager.Library\obj\Debug\IdentityManager.Library.pdb
+C:\TechTrial\IdentityManager.Library\obj\Debug\IdentityManager.Library.csprojResolveAssemblyReference.cache
+C:\AmitGaur_SoftwareArchitect_Ldap_NET\Source\IdentityManager.Library\bin\Debug\IdentityManager.Library.dll
+C:\AmitGaur_SoftwareArchitect_Ldap_NET\Source\IdentityManager.Library\bin\Debug\IdentityManager.Library.pdb
+C:\AmitGaur_SoftwareArchitect_Ldap_NET\Source\IdentityManager.Library\obj\Debug\IdentityManager.Library.csprojResolveAssemblyReference.cache
+C:\AmitGaur_SoftwareArchitect_Ldap_NET\Source\IdentityManager.Library\obj\Debug\IdentityManager.Library.dll
+C:\AmitGaur_SoftwareArchitect_Ldap_NET\Source\IdentityManager.Library\obj\Debug\IdentityManager.Library.pdb
+C:\Output\AmitGaur_SoftwareArchitect_Ldap_NET\Source\IdentityManager.Library\bin\Debug\IdentityManager.Library.dll
+C:\Output\AmitGaur_SoftwareArchitect_Ldap_NET\Source\IdentityManager.Library\bin\Debug\IdentityManager.Library.pdb
+C:\Output\AmitGaur_SoftwareArchitect_Ldap_NET\Source\IdentityManager.Library\obj\Debug\IdentityManager.Library.csprojResolveAssemblyReference.cache
+C:\Output\AmitGaur_SoftwareArchitect_Ldap_NET\Source\IdentityManager.Library\obj\Debug\IdentityManager.Library.dll
+C:\Output\AmitGaur_SoftwareArchitect_Ldap_NET\Source\IdentityManager.Library\obj\Debug\IdentityManager.Library.pdb
