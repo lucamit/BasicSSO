@@ -39,7 +39,3 @@ Note: if above names and structures structure is not followed need to update bel
 	c. "AppOneUrl" in appsettings. (For SSOApp)
 	d. "AppTwoUrl in appsettings. (For SSOApp)
 	e. "AuthenticationApi" in appsettings (For SSoApp).
-
-
-Feedback:
-Enjoyed the assignment. It would have been more fun if any specified pattern/framework was mandatory . 
