@@ -3,11 +3,11 @@ Steps to build the project:
 2. Build the solution.
 
 Note for Running the project:
-1. Update the Data Source of connection string in ~/AmitGaur_SoftwareArchitect_Ldap_NET\Source\IdentityManagerRestApis\Web.config.
+1. Update the Data Source of connection string in ~/Ldap_NET\Source\IdentityManagerRestApis\Web.config.
    The connection string name must be "IdentityManager"
 	  Example  <add name="IdentityManager" providerName="System.Data.SqlClient" 				            connectionString="server=localhost;database=SSO;Trusted_Connection=Yes;"/>
 
-2.  Update the value in AmitGaur_SoftwareArchitect_Ldap_NET\Source\IdentityManagerRestApis\Web.config AppSetting Setions
+2.  Update the value in Ldap_NET\Source\IdentityManagerRestApis\Web.config AppSetting Setions
 	a. Update value of Ldap Serverin key  "Ldap.Connection".Just give the server address without protocol.
 	b. update timeout value  of  "TicketExpirationTimeoutInMinutes".This is used to expire authentication token sfter specified time.
 
@@ -26,10 +26,10 @@ Assumptions:
 Steps to install the api and web application on IIS using the deploy packages:
 1. Open Inetmgr.
 2. Under default website right click and add following applications.
-3. Enter Alias as "Idm" and point it to "~/AmitGaur_SoftwareArchitect_Ldap_NET\Source\IdentityManagerRestApis".
-4. Enter Alias as "SSo" and point it to "~/AmitGaur_SoftwareArchitect_Ldap_NET\Source\SSOApp".
-5. Enter Alias as "App1" and point it to "~/AmitGaur_SoftwareArchitect_Ldap_NET\Source\TestApp1".
-6. Enter Alias as "App2" and point it to "~/AmitGaur_SoftwareArchitect_Ldap_NET\Source\TestApp2".
+3. Enter Alias as "Idm" and point it to "~/Ldap_NET\Source\IdentityManagerRestApis".
+4. Enter Alias as "SSo" and point it to "~/Ldap_NET\Source\SSOApp".
+5. Enter Alias as "App1" and point it to "~/Ldap_NET\Source\TestApp1".
+6. Enter Alias as "App2" and point it to "~/Ldap_NET\Source\TestApp2".
 7. Make sure that in  Application Pool .Net Framework is set to v4.0. and Managed Pipeline mode is set to Integrated.
 8. Browse the site with with url "localhost/SSO" in browser.(Ensure to deploy update connection strings in web.config as decsrbed above.)
 
